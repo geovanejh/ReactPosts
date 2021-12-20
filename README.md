@@ -1,3 +1,7 @@
+# Minha primeira aplicação em React.js!
+
+App simples de gerenciamento de posts construída em React.js, o primeiro de muitos!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
